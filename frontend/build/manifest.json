@@ -1,0 +1,6 @@
+{
+    "short_name": "Klinik",
+    "name": "Mini Clinic Information System",
+    "start_url": ".",
+    "display": "standalone"
+}
